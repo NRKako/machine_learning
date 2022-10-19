@@ -1,4 +1,4 @@
-b_uls_mean,b_cdi_mean,b_dem_sex,b_dem_gender,b_dem_orientation,b_bads_mean,b_shs_mean,b_bhs_mean,b_aces_mean,b_mvps_mean,eds_events_mean,b_gad_mean
+loneliness,depression,sex,gender,orientation,behav_act,hope,hopelessness,child_adverse,peer_vict,discrimination,anxiety
 2.25,1.75,Female,woman_only,Heterosexual/Straight,2.88888888888889,2.16666666666667,2.75,0.6,0.875,2.9,2.42857142857143
 1.9,1.16666666666667,Female,woman_only,Bisexual,3.55555555555556,3.83333333333333,1.75,0.4,0.0,3.4,3.14285714285714
 1.8,0.75,Male,gender_diverse,Queer,2.44444444444444,2.83333333333333,1.75,0.8,0.25,3.2,2.57142857142857
