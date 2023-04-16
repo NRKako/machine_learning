@@ -412,7 +412,7 @@ loneliness,depression,sex,gender,orientation,behav_act,hope,hopelessness,child_a
 35.0,11.0,Male,man_only,Bisexual,31.0,32.0,4.0,2.0,5.0,25.0,18.0,1.0,1,3.0,8.0,0.0,0
 27.0,12.0,Female,woman_only,I do not use a label,20.0,28.0,8.0,1.0,16.0,25.0,24.0,1.0,1,18.0,5.0,0.0,0
 22.0,19.0,Male,man_only,Bisexual,11.0,31.0,9.0,2.0,13.0,26.0,22.0,0.0,1,0.0,230.0,0.0,0
-44.0,17.0,Female,man_only,Queer,8.0,14.0,12.0,4.0,17.0,45.0,26.0,1.0,0,20.0,0.0,0.0,1
+44.0,17.0,Female,gender_diverse,Queer,8.0,14.0,12.0,4.0,17.0,45.0,26.0,1.0,0,20.0,0.0,0.0,1
 25.0,9.0,Female,woman_only,Heterosexual/Straight,38.0,26.0,9.0,2.0,2.0,18.0,28.0,0.0,0,0.0,0.0,0.0,0
 28.0,8.0,Female,woman_only,I do not use a label,21.0,33.0,0.0,1.0,8.0,34.0,15.0,1.0,1,3.0,20.0,0.0,0
 27.0,13.0,Female,gender_diverse,Queer,19.0,19.0,6.0,3.0,1.0,17.0,21.0,1.0,1,5.0,3.0,0.0,0
@@ -736,7 +736,7 @@ loneliness,depression,sex,gender,orientation,behav_act,hope,hopelessness,child_a
 34.0,15.0,Female,woman_only,Unsure/Questioning,14.0,21.0,4.0,5.0,11.0,37.0,20.0,1.0,1,5.0,1.0,0.0,0
 23.0,10.0,Female,gender_diverse,Queer,21.0,30.0,6.0,0.0,0.0,28.0,20.0,0.0,0,0.0,0.0,0.0,0
 40.0,14.0,Female,woman_only,Bisexual,14.0,18.0,9.0,2.0,2.0,28.0,16.0,1.0,1,30.0,100.0,0.0,1
-22.0,18.0,Female,man_only,Bisexual,15.0,12.0,10.0,2.0,13.0,22.0,15.0,1.0,1,1000.0,100.0,3.0,1
+22.0,18.0,Female,gender_diverse,Bisexual,15.0,12.0,10.0,2.0,13.0,22.0,15.0,1.0,1,1000.0,100.0,3.0,1
 52.0,18.0,Female,woman_only,I do not use a label,11.0,12.0,12.0,4.0,16.0,35.0,28.0,1.0,1,1000.0,363.0,0.0,0
 52.0,19.0,Female,gender_diverse,Pansexual,12.0,24.0,10.0,1.0,31.0,45.0,28.0,0.0,1,0.0,250.0,0.0,0
 18.0,14.0,Female,woman_only,Bisexual,18.0,19.0,6.0,3.0,8.0,25.0,16.0,1.0,1,5.0,2.0,2.0,1
@@ -810,7 +810,7 @@ loneliness,depression,sex,gender,orientation,behav_act,hope,hopelessness,child_a
 27.0,13.0,Female,woman_only,Heterosexual/Straight,20.0,33.0,9.0,1.0,2.0,16.0,28.0,0.0,0,0.0,0.0,0.0,0
 48.0,16.0,Female,woman_only,Unsure/Questioning,19.0,24.0,8.0,1.0,4.0,25.0,28.0,1.0,1,0.0,20.0,0.0,1
 30.0,12.0,Female,woman_only,Heterosexual/Straight,22.0,33.0,2.0,1.0,9.0,26.0,23.0,0.0,1,0.0,0.0,0.0,1
-34.0,19.0,Female,man_only,Bisexual,14.0,19.0,8.0,2.0,16.0,41.0,28.0,1.0,1,20.0,20.0,1.0,1
+34.0,19.0,Female,gender_diverse,Bisexual,14.0,19.0,8.0,2.0,16.0,41.0,28.0,1.0,1,20.0,20.0,1.0,1
 37.0,16.0,Female,gender_diverse,Other/Not listed (please specify),4.0,18.0,8.0,4.0,22.0,35.0,25.0,1.0,1,1.0,50.0,0.0,0
 57.0,16.0,Female,gender_diverse,Gay/Lesbian/Homosexual,13.0,15.0,7.0,3.0,12.0,11.0,27.0,1.0,1,18.0,100.0,0.0,0
 18.0,16.0,Female,woman_only,Gay/Lesbian/Homosexual,7.0,16.0,6.0,4.0,10.0,30.0,22.0,1.0,1,7.0,300.0,3.0,1
@@ -862,7 +862,7 @@ loneliness,depression,sex,gender,orientation,behav_act,hope,hopelessness,child_a
 39.0,9.0,Female,woman_only,Gay/Lesbian/Homosexual,27.0,37.0,3.0,1.0,13.0,37.0,14.0,0.0,0,0.0,0.0,0.0,0
 39.0,9.0,Male,man_only,Heterosexual/Straight,25.0,30.0,8.0,1.0,20.0,36.0,16.0,1.0,1,20.0,5.0,0.0,0
 49.0,15.0,Female,woman_only,Bisexual,12.0,23.0,7.0,3.0,7.0,33.0,22.0,0.0,1,0.0,0.0,0.0,0
-44.0,18.0,Female,man_only,Bisexual,18.0,28.0,9.0,4.0,8.0,32.0,23.0,1.0,1,0.0,1.0,0.0,1
+44.0,18.0,Female,gender_diverse,Bisexual,18.0,28.0,9.0,4.0,8.0,32.0,23.0,1.0,1,0.0,1.0,0.0,1
 38.0,21.0,Male,man_only,Gay/Lesbian/Homosexual,17.0,21.0,12.0,1.0,4.0,23.0,28.0,1.0,1,20.0,400.0,4.0,1
 31.0,17.0,Female,woman_only,I do not use a label,21.0,24.0,8.0,3.0,7.0,20.0,27.0,0.0,1,0.0,55.0,0.0,0
 39.0,17.0,Female,woman_only,Heterosexual/Straight,22.0,25.0,7.0,2.0,6.0,48.0,27.0,1.0,1,20.0,50.0,0.0,0
@@ -1065,7 +1065,7 @@ loneliness,depression,sex,gender,orientation,behav_act,hope,hopelessness,child_a
 33.0,16.0,Female,gender_diverse,Gay/Lesbian/Homosexual,12.0,21.0,8.0,3.0,0.0,29.0,22.0,1.0,1,12.0,5.0,0.0,0
 53.0,16.0,Female,woman_only,I do not use a label,25.0,33.0,7.0,3.0,23.0,33.0,17.0,0.0,1,0.0,9.0,0.0,0
 15.0,14.0,Female,gender_diverse,Bisexual,17.0,21.0,4.0,4.0,0.0,10.0,19.0,0.0,0,0.0,0.0,0.0,0
-33.0,15.0,Female,man_only,Queer,34.0,30.0,8.0,3.0,13.0,36.0,16.0,1.0,1,0.0,90.0,0.0,0
+33.0,15.0,Female,gender_diverse,Queer,34.0,30.0,8.0,3.0,13.0,36.0,16.0,1.0,1,0.0,90.0,0.0,0
 42.0,15.0,Female,woman_only,Heterosexual/Straight,18.0,18.0,12.0,3.0,15.0,28.0,15.0,1.0,1,7.0,23.0,5.0,1
 33.0,9.0,Female,woman_only,Heterosexual/Straight,21.0,27.0,6.0,2.0,0.0,27.0,18.0,0.0,1,0.0,8.0,0.0,0
 54.0,18.0,Female,woman_only,Heterosexual/Straight,20.0,22.0,8.0,1.0,1.0,12.0,28.0,1.0,0,9.0,0.0,0.0,0
@@ -1350,7 +1350,7 @@ loneliness,depression,sex,gender,orientation,behav_act,hope,hopelessness,child_a
 22.0,6.0,Female,woman_only,Bisexual,35.0,42.0,1.0,2.0,6.0,27.0,10.0,0.0,1,0.0,1.0,0.0,0
 44.0,17.0,Female,woman_only,Gay/Lesbian/Homosexual,16.0,19.0,9.0,4.0,23.0,30.0,28.0,1.0,1,50.0,5.0,0.0,0
 24.0,16.0,Female,gender_diverse,Gay/Lesbian/Homosexual,27.0,37.0,5.0,1.0,14.0,35.0,18.0,1.0,1,15.0,10.0,2.0,1
-29.0,9.0,Female,man_only,Pansexual,22.0,41.0,4.0,4.0,10.0,23.0,23.0,1.0,1,40.0,10.0,0.0,0
+29.0,9.0,Female,gender_diverse,Pansexual,22.0,41.0,4.0,4.0,10.0,23.0,23.0,1.0,1,40.0,10.0,0.0,0
 27.0,7.0,Female,gender_diverse,Bisexual,22.0,24.0,3.0,4.0,1.0,23.0,19.0,0.0,1,0.0,15.0,0.0,0
 32.0,6.0,Female,gender_diverse,Asexual,35.0,39.0,1.0,0.0,12.0,20.0,18.0,1.0,0,20.0,0.0,0.0,0
 37.0,17.0,Male,gender_diverse,Bisexual,10.0,25.0,9.0,4.0,7.0,29.0,21.0,1.0,1,1.0,30.0,0.0,0
@@ -2042,7 +2042,7 @@ loneliness,depression,sex,gender,orientation,behav_act,hope,hopelessness,child_a
 43.0,19.0,Female,woman_only,Heterosexual/Straight,14.0,22.0,10.0,1.0,27.0,37.0,28.0,1.0,1,90.0,150.0,3.0,1
 26.0,11.0,Male,man_only,Bisexual,22.0,38.0,2.0,4.0,7.0,22.0,19.0,0.0,0,0.0,0.0,0.0,0
 40.0,15.0,Female,woman_only,Gay/Lesbian/Homosexual,16.0,34.0,4.0,2.0,15.0,28.0,28.0,1.0,1,5.0,0.0,0.0,0
-26.0,14.0,Female,man_only,Heterosexual/Straight,21.0,27.0,8.0,0.0,11.0,30.0,22.0,0.0,1,0.0,1.0,0.0,0
+26.0,14.0,Female,gender_diverse,Heterosexual/Straight,21.0,27.0,8.0,0.0,11.0,30.0,22.0,0.0,1,0.0,1.0,0.0,0
 47.0,19.0,Female,gender_diverse,Other/Not listed (please specify),5.0,13.0,11.0,3.0,18.0,37.0,22.0,1.0,1,20.0,14.0,1.0,1
 48.0,18.0,Female,gender_diverse,Pansexual,11.0,23.0,11.0,2.0,1.0,23.0,28.0,1.0,1,18.0,9.0,0.0,0
 43.0,16.0,Female,gender_diverse,Bisexual,13.0,20.0,7.0,3.0,13.0,23.0,18.0,0.0,1,0.0,10.0,0.0,0
@@ -2062,7 +2062,7 @@ loneliness,depression,sex,gender,orientation,behav_act,hope,hopelessness,child_a
 34.0,18.0,Female,gender_diverse,Bisexual,14.0,15.0,10.0,4.0,7.0,27.0,18.0,1.0,1,100.0,150.0,0.0,0
 37.0,11.0,Female,woman_only,Bisexual,25.0,27.0,6.0,1.0,6.0,17.0,14.0,1.0,0,5.0,0.0,0.0,0
 47.0,12.0,Female,woman_only,Unsure/Questioning,25.0,29.0,6.0,1.0,8.0,19.0,18.0,1.0,1,,1.0,0.0,0
-29.0,13.0,Male,woman_only,Heterosexual/Straight,22.0,17.0,4.0,3.0,7.0,31.0,21.0,0.0,0,0.0,0.0,0.0,0
+29.0,13.0,Male,gender_diverse,Heterosexual/Straight,22.0,17.0,4.0,3.0,7.0,31.0,21.0,0.0,0,0.0,0.0,0.0,0
 27.0,17.0,Female,gender_diverse,Bisexual,21.0,7.0,6.0,4.0,15.0,38.0,20.0,1.0,1,16.0,30.0,0.0,0
 47.0,15.0,Female,woman_only,Unsure/Questioning,24.0,13.0,10.0,2.0,13.0,30.0,19.0,1.0,1,5.0,5.0,0.0,0
 35.0,9.0,Female,woman_only,Heterosexual/Straight,35.0,40.0,3.0,1.0,11.0,22.0,15.0,0.0,0,0.0,0.0,0.0,0
@@ -2287,7 +2287,7 @@ loneliness,depression,sex,gender,orientation,behav_act,hope,hopelessness,child_a
 42.0,8.0,Female,woman_only,Other/Not listed (please specify),39.0,45.0,6.0,3.0,9.0,25.0,12.0,0.0,1,0.0,0.0,0.0,0
 39.0,13.0,Female,woman_only,Bisexual,30.0,17.0,10.0,3.0,3.0,19.0,25.0,1.0,1,0.0,20.0,0.0,0
 48.0,13.0,Male,man_only,Unsure/Questioning,22.0,19.0,9.0,4.0,21.0,22.0,21.0,1.0,1,7.0,9.0,0.0,0
-42.0,9.0,Female,man_only,Bisexual,23.0,36.0,3.0,3.0,14.0,10.0,13.0,1.0,1,0.0,30.0,0.0,1
+42.0,9.0,Female,gender_diverse,Bisexual,23.0,36.0,3.0,3.0,14.0,10.0,13.0,1.0,1,0.0,30.0,0.0,1
 48.0,19.0,Female,woman_only,Gay/Lesbian/Homosexual,20.0,15.0,10.0,4.0,6.0,25.0,25.0,0.0,1,0.0,100.0,0.0,0
 36.0,13.0,Female,woman_only,Gay/Lesbian/Homosexual,25.0,34.0,5.0,4.0,4.0,15.0,28.0,1.0,1,0.0,10.0,0.0,0
 28.0,13.0,Female,woman_only,Asexual,18.0,26.0,6.0,1.0,9.0,35.0,17.0,0.0,1,0.0,35.0,0.0,0
